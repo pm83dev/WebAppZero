@@ -1,0 +1,6 @@
+@WebAppZero_HostAddress = http://localhost:5219
+
+GET {{WebAppZero_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
